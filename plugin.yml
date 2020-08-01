@@ -1,6 +1,6 @@
 name: Alias
 version: 1.2.3
-api: [3.0.0]
+api: [3.0.0, 3.14.2]
 author: ZacHack
 description: Allows users to view all the usernames used from a player's IP
 main: Alias\MainClass
